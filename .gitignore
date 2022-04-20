@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/features.csv
+data/power.csv
+data/sample_submission.csv
